@@ -1,0 +1,88 @@
+
+.headerMenuContainer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.headerMenuContainer .menuButton{
+    background: var(--main-color);
+    color: white;
+    margin: 6px;
+}
+
+.contactBox{
+    padding: 12px;
+}
+
+.navbarSupport{
+    align-self: flex-end;
+}
+
+.navbarSupport{
+   
+}
+
+.menuButton{
+    width: '100%';
+    font-size: 12px;
+}
+
+.pricing-list{
+    list-style-type: none;
+}
+
+.pricing-list li{
+    list-style: none;
+    border-bottom: 1px solid #eee;
+    margin: 0 5px;
+    padding: 6px 0;
+}
+
+.topMenuContainer{
+  
+    border-radius: 2px 4px;
+    margin-top: 10px;
+}
+.topMenuContainer ul li a{
+    color: var(--main-color) !important;
+}
+.testimonial-item i{
+    font-size: 55px;
+}
+.testimonial-title{
+    text-transform: uppercase;
+}
+/* Style the navbar */
+/* #navbar {
+    overflow: hidden;
+    z-index: 999;
+    background-color: #ffffff;
+  }
+
+  
+  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.headerMenuContainer{
+    padding-top: 40px;
+}
+.nav-item .nav-link{
+    color: var(--main-color);
+}
+
+.price{
+    text-align: center;
+    margin: 12px auto;
+    font-size: 18px;
+    font-weight: 700;
+}
+.netTitle{
+    text-align: center;
+}
+.h3{
+    text-transform: uppercase;
+}
+
+.sectionTableContainer{
+    margin-top:50px;
+}
+.sectionTitle{
+    color: red;
+}
